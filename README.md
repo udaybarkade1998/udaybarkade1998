@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @udaybarkade1998
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Android Application Development
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on Android Apps Development Teams
 - 📫 How to reach me - udaybarkade1998@gmail.com
 
 <!---
