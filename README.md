@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @udaybarkade1998
+- 👋 Hi, I’m Uday Barkade 
 - 👀 I’m interested in Android Application Development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Android Apps Development Teams
